@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@300&display=swap");
+
+.Chatinner {
+    min-height: fit-content;
+    /* display: flex; */
+    /* background-image: url("./background.png"); */
+    background-color: #119BE0;
+    background-position: center;
+    background-size: cover;
+    margin-top: 10PX;
+}
+
+::-webkit-scrollbar {
+    width: 0px;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background: rgba(136, 136, 136, 0.281);
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555;
+  }

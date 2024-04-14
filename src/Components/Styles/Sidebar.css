@@ -1,0 +1,74 @@
+/* filter */
+.Category-Center{
+    margin: 20PX 0 0 0PX;
+}
+
+.Category-Center .homescreen__title{
+    font-size: 20PX Bold;
+    margin: 20PX 0 10PX 0PX;
+}
+.Category-Center .homescreen__option{
+  cursor: pointer;
+  margin: 20PX 0 0 10PX;
+}
+.Category-Center .homescreen__option:hover{
+  color: #45B6FE;
+}
+.Category-Center ul {
+	/* //margin: 5px 50px 0 0; */
+	display: flex;
+  flex-direction: column;
+ 	justify-content: flex-start;
+	margin-left: -20px;
+	padding: 0;
+  text-decoration: none;
+  list-style-type: none;
+}
+
+.Category-Center .main-nav li {
+  margin: 5px 20px; /* add some margin between list items */
+}
+
+.Category-Center .main-nav li:hover {
+  background:#45B6FE ; /* add some margin between list items */
+}
+
+.Category-Center .main-nav li a {
+  display: block; /* make anchor tags fill the width of their container */
+  text-align: left; 
+  color: #000000;
+  font-size: 15PX;
+  text-decoration: none;
+  margin-left: 10px;
+}
+
+.Category-Center .main-nav  li a:hover {
+	color: #f8f9f9;
+	font-size: 15PX;
+}
+
+
+
+.vertical-line {
+    border-left: 3px solid #dad6d6;
+    height: 100%;
+    margin-top: 20px;
+  }
+/* calender */
+  .calender{
+    margin: 20PX 0 0 0PX;
+    
+  }
+
+  .react-calendar__navigation{
+    background: #45B6FE;
+    color: #fff;
+  }
+ 
+  .react-calendar__navigation button{
+    background: #45B6FE;
+    color: #fff;
+  }
+
+
+ 

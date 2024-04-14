@@ -1,0 +1,106 @@
+.bgmenu{
+
+
+
+
+    /* background: #4ECDC4;  
+    background: -webkit-linear-gradient(to right, #556270, #4ECDC4); 
+    background: linear-gradient(to right, #556270, #4ECDC4); */
+
+
+    /* background: #1c92d2; 
+    background: -webkit-linear-gradient(to right, #f2fcfe, #1c92d2);  
+    background: linear-gradient(to right, #f2fcfe, #1c92d2);  */
+
+    background: linear-gradient(rgb(32, 132, 198), rgb(72, 153, 198), rgb(96, 174, 198), rgb(116, 196, 197), rgb(134, 219, 196));
+
+   
+    /* background-color: #12ADC1; */
+
+    /* background-color: #46A094; */
+    /* background-color: #6BBD99; */
+    /* background-color:#AECFA4; */
+    /* background-color: #C4E8C2; */
+   
+  
+
+}
+
+
+
+
+
+#have{
+
+
+
+    font-family: poppins;
+    font-size: 13px;
+    font-weight: normal;
+    
+   
+    text-align: left;
+    margin-left: 5%;
+    margin-top: 5px;
+   
+    padding-top: 0.5%;
+    
+}
+
+#docchain{
+
+    font-family: poppins;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: left;
+   
+    margin-left: 5%;
+}
+
+
+#mbutton{
+
+    display: flex;
+  justify-content:right;
+  margin-right: 5%;
+  margin-left: 5%;
+
+
+   
+}
+
+
+#docchain1{
+
+    font-family: poppins;
+    font-size: 40px;
+    font-weight: bold;
+    padding-top: 7%;
+    margin-left: 5%;
+    margin-right: 5%;
+   
+
+}
+
+
+#docinfo{
+    font-family: poppins;
+    font-size: 20px;
+    font-weight: normal;
+    margin-top: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+
+
+}
+
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    
+    margin-bottom: 0%;
+    padding-bottom: 0%;
+  }

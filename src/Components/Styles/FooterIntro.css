@@ -1,0 +1,59 @@
+
+
+
+#bg-footer{
+    /* background: linear-gradient(rgb(232, 209, 241), rgb(187, 159, 214), rgb(141, 112, 187), rgb(94, 67, 161), rgb(37, 24, 134)); */
+    /* background: linear-gradient(rgb(32, 132, 198), rgb(72, 153, 198), rgb(96, 174, 198), rgb(116, 196, 197), rgb(134, 219, 196)); */
+
+       /* background-color: #12ADC1; */
+        background-color: #0295A9;
+
+    
+}
+
+
+#docchainname{
+
+    font-family: poppins;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: left;
+   
+
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+
+#para2{
+    font-family: poppins;
+    font-size: 15px;
+    font-weight: normal;
+    margin-top: 40px;
+    margin-left: 5%;
+    
+   
+    text-align: center;
+  
+  
+  
+  }
+  #para3{
+    font-family: poppins;
+    font-size: 15px;
+    font-weight: normal;
+    margin-top: 20px;
+    
+   
+    text-align: center;
+    margin-bottom: 20px;
+   
+   
+    
+   
+   
+
+
+
+  }

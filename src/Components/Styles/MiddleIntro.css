@@ -1,0 +1,23 @@
+.imagepad{
+  padding-top: 70px;
+  padding-left: 250px;
+  max-width: 80%;
+}
+.bitcoin{
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 40px;
+  padding-bottom: 0%;
+  z-index: -1;
+}
+.coinimg{
+  width: 60%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#head1{
+
+  text-align: center;
+}
